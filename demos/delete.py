@@ -3,5 +3,5 @@ print(ordinateur)
 del ordinateur["hardDisque"]
 
 ordinateur["memeoire"]="64"
-
+ordinateur["hardDisque"]="HDD"
 print(ordinateur)
